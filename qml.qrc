@@ -1,6 +1,5 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
-        <file>prime.jpg</file>
     </qresource>
 </RCC>
